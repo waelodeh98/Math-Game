@@ -1,5 +1,8 @@
 # Math Game - C++ Console Application
 
+Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_math-quiz-game-c-console-project-a-activity-7427008377542791168--AXZ)
+
+
 ## Overview
 This is a C++ Console Application that simulates a Math Game.  
 Players can answer a series of math questions with multiple difficulty levels and operation types. The game keeps track of correct and wrong answers and shows the final results.
