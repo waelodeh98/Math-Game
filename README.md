@@ -21,11 +21,13 @@ Players can answer a series of math questions with multiple difficulty levels an
 ---
 
 ## 🖼️ Screenshots
-![Screenshot 1](https://github.com/user-attachments/assets/be50b472-ab77-4363-bd9e-cde9ce99c8ca)
 
-![Screenshot 2](https://github.com/user-attachments/assets/fa4eda02-a7d8-44a6-ac5d-61c2b0e52e1f)
+[![Screenshot 1](https://github.com/user-attachments/assets/be50b472-ab77-4363-bd9e-cde9ce99c8ca)](https://www.linkedin.com/posts/waelsamer_math-quiz-game-c-console-project-a-activity-7427008377542791168--AXZ)
 
-![Screenshot 3](https://github.com/user-attachments/assets/f00ff0c3-95d0-421e-8491-16b4db3141ba)
+[![Screenshot 2](https://github.com/user-attachments/assets/fa4eda02-a7d8-44a6-ac5d-61c2b0e52e1f)](https://www.linkedin.com/posts/waelsamer_math-quiz-game-c-console-project-a-activity-7427008377542791168--AXZ)
+
+[![Screenshot 3](https://github.com/user-attachments/assets/f00ff0c3-95d0-421e-8491-16b4db3141ba)](https://www.linkedin.com/posts/waelsamer_math-quiz-game-c-console-project-a-activity-7427008377542791168--AXZ)
+
 
 ---
 
