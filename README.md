@@ -19,6 +19,7 @@ Players can answer a series of math questions with multiple difficulty levels an
 - **Console UI:** Interactive menus with color feedback for correct/incorrect answers.
 
 ---
+Click on any image to watch the project video on LinkedIn
 
 ## 🖼️ Screenshots
 
