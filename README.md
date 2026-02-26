@@ -1,5 +1,8 @@
 # Math Game - C++ Console Application
 
+![Screenshot](https://github.com/user-attachments/assets/869d0d47-029f-4898-a83c-731cdc45ec83)
+
+
 Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_math-quiz-game-c-console-project-a-activity-7427008377542791168--AXZ)
 
 
